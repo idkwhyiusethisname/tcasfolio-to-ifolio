@@ -29,7 +29,7 @@
 
 ## วิธีใช้
 
-1. ติดตั้ง `pip install requests`
+1. ติดตั้ง `pip install requests` /  โหลด Exe ใน [Release](https://github.com/idkwhyiusethisname/tcasfolio-to-ifolio/releases)
 2. ล็อกอินทั้งสองเว็บในเบราว์เซอร์ กด F12 > Network > กด F5 ที่หน้าไหนก็ได้ > Request Headers แล้วคัดลอกค่า `Cookie:`
 3. ใส่ลงใน `cookies.json`
    ```json
@@ -38,7 +38,7 @@
      "IFOLIO_COOKIE": "ทั้งบรรทัด Cookie ของ ifolio.kmitl.ac.th"
    }
    ```
-4. รัน `python mytcas_to_ifolio.py` แล้วใส่
+4. รัน `python mytcas_to_ifolio.py` / กดเปิด EXE แล้วใส่
    - ลิงก์แฟ้ม mytcas เช่น `https://student.mytcas.com/profile/folios/<id>` <img width="1392" height="630" alt="image (10)" src="https://github.com/user-attachments/assets/3fb46174-0c1a-4845-99f4-1bb5f28ecae0" />
    - ชื่อพอร์ตโฟลิโอใน iFolio ที่จะก๊อปงานลงไป <img width="2066" height="647" alt="image (8)" src="https://github.com/user-attachments/assets/7b1b27ee-5397-4017-8f8c-555c98bf7953" />
 
