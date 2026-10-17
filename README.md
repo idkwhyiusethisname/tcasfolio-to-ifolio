@@ -1,6 +1,6 @@
 # mytcas-to-ifolio
 
-สคริปต์ Python คัดลอกผลงานจากแฟ้ม TCASFOLIO (student.mytcas.com) ไปใส่ใน iFolio ของ KMITL (ifolio.kmitl.ac.th) อัตโนมัติ
+สคริปต์ Python คัดลอกผลงานจากแฟ้ม TCASFOLIO (student.mytcas.com) ไปใส่ใน iFolio ของ KMITL (ifolio.kmitl.ac.th) อัตโนมัติ (สิ่งนี้ไม่เกี่ยวอะไรกับ ทปอ และลาดกระบัง นะจัฟ use at your own risk)
 
 ## Why ?
 ขีเกียจก๊อปวางเอง แม่งเยอะ
