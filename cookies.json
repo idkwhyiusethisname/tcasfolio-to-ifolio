@@ -1,0 +1,4 @@
+{
+  "MYTCAS_COOKIE": "ค่า accessToken ที่อยู่ใน Requests Headers ของ student.mytcas.com",
+  "IFOLIO_COOKIE": "ทั้งบรรทัด Cookie ของ ifolio.kmitl.ac.th"
+}
