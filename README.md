@@ -1,6 +1,10 @@
-# mytcas-to-ifolio
+# 📚 mytcas-to-ifolio
 
-สคริปต์ Python คัดลอกผลงานจากแฟ้ม TCASFOLIO (student.mytcas.com) ไปใส่ใน iFolio ของ KMITL (ifolio.kmitl.ac.th) อัตโนมัติ (สิ่งนี้ไม่เกี่ยวอะไรกับ ทปอ และลาดกระบัง นะจัฟ use at your own risk)
+สคริปต์ Python คัดลอกผลงานจากแฟ้ม TCASFOLIO (student.mytcas.com) ไปใส่ใน iFolio ของ KMITL (ifolio.kmitl.ac.th) อัตโนมัติ (สิ่งนี้ไม่เกี่ยวอะไรกับ ทปอ และลาดกระบัง นะจัฟ use at your own risk) 
+
+# ⭐ Star This Repo 
+
+⭐ ถ้าดาวเยอะๆ เดียวมาอัพเดตต่อ ให้รองรับหลายๆอย่าง กดเร็วๆๆๆ 
 
 ## Why ?
 ขีเกียจก๊อปวางเอง แม่งเยอะ
